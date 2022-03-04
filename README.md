@@ -17,4 +17,17 @@ Jeszcze nie ma.
 ### Reakcja
 - w przypadku gdy jeden z programistów będzie miał jakieś trudności z danym zadaniem, pozostałe osoby pomogą w rozwiązaniu danego problemu
 # Nagłówek Epic
+Coś tam coś tam
 ## Feature
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+
+## User story/task
+-tak
