@@ -2,11 +2,11 @@
 # Dokumentacja
 Dokumentacja z zajęć z przedmiotu fakultatywnego
 ##Projekt OWASP ZAP + CRUD w symfony
-Na tworzenie aplikacji każdy będzie przeznaczał około 1 godziny dziennie, a we wtorek dodatkową godzinę, poniważ zaplanowane mamy wtedy zajęcia przeznaczone do realizacji danego projektu. Projekt powinien zostać zrealizowany do 25.05.2022 roku lecz nie musi być skończony
+Na tworzenie aplikacji każdy będzie przeznaczał około 1 godziny dziennie, a we wtorek dodatkową godzinę, poniważ zaplanowane mamy wtedy zajęcia przeznaczone do realizacji danego projektu. Projekt powinien zostać zrealizowany do 25.05.2022 roku lecz nie musi być skończony.
 ##Cel
-Coś tam coś tam
+Coś tam coś tam.
 ##Podział zespołów
-Jeszcze nie ma
+Jeszcze nie ma.
 ##Analiza ryzyka
 ###Prawdopodobieństwo
 -brak znajomości lub mała znajomość frameworka symfony
