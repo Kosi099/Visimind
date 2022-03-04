@@ -16,7 +16,7 @@ Jeszcze nie ma.
 - rozpoczęcie nauki frameworka symfony/ praca z dokumentacją
 ### Reakcja
 - w przypadku gdy jeden z programistów będzie miał jakieś trudności z danym zadaniem, pozostałe osoby pomogą w rozwiązaniu danego problemu
-# Nagłówek Epic
+# Epic
 Coś tam coś tam
 ## Feature
 1. 
@@ -30,4 +30,6 @@ Coś tam coś tam
 9. 
 
 ## User story/task
+-tak
+## Szacowanie User story/task
 -tak
