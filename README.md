@@ -9,11 +9,11 @@ Coś tam coś tam.
 Jeszcze nie ma.
 ## Analiza ryzyka
 ### Prawdopodobieństwo
--brak znajomości lub mała znajomość frameworka symfony
+- brak znajomości lub mała znajomość frameworka symfony
 ### Wpływ na projekt
--opóźnienie rozpoczęcia pracy nad projektem
+- opóźnienie rozpoczęcia pracy nad projektem
 ### Sposób ograniczenia ryzyka
--rozpoczęcie nauki frameworka symfony/ praca z dokumentacją
+- rozpoczęcie nauki frameworka symfony/ praca z dokumentacją
 ### Reakcja
 - w przypadku gdy jeden z programistów będzie miał jakieś trudności z danym zadaniem, pozostałe osoby pomogą w rozwiązaniu danego problemu
 # Nagłówek Epic
