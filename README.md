@@ -33,3 +33,10 @@ Coś tam coś tam
 -tak
 ## Szacowanie User story/task
 -tak
+## Analiza zespołu
+### Analiza SWOT
+#### Silne strony
+#### Słabe strony
+#### Okazje
+#### Zagrożenia
+-tak
