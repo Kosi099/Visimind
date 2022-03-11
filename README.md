@@ -34,6 +34,16 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
 # Analiza zespołu
 ## Analiza SWOT
 ### Silne strony
+- znajomość różnych języków programowania
+- możliwość douczenia się w przypadku problemów
+- zespół uzupełniający się
 ### Słabe strony
+- brak zaawansowanej znajomości niektórych frameworków
+- brak zaawansowanej znajomości niektórych jezyków programowania
 ### Okazje
+- możliwość rozwinięcia wiedzy własnej odnośnie nowych jezyków programowania
+- możliwość rozwinięcia wiedzy własnej odnośnie nowych frameworków
+- możliwość zdobycia umiejętności pracy w zespole
 ### Zagrożenia
+- możliwość posiadania problemów związanych z brakiem znajomości frameworka symfony
+- nie wystarczająca ilość czasu na wykonanie danego projektu
