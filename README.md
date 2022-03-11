@@ -4,7 +4,7 @@ Dokumentacja z zajęć z przedmiotu fakultatywnego
 ## Projekt OWASP ZAP + CRUD w symfony
 Na tworzenie aplikacji każdy będzie przeznaczał około 1 godziny dziennie, a we wtorek dodatkową godzinę, poniważ zaplanowane mamy wtedy zajęcia przeznaczone do realizacji danego projektu. Projekt powinien zostać zrealizowany do 25.05.2022 roku lecz nie musi być skończony.
 ## Cel
-Coś tam coś tam.
+Stworzyć aplikacje sprawdzającą luki w zabezpieczeniach przez OWASP ZAP i zapisującą wszystkie wyniki dla danej strony. Przeprowadzi atak na daną stronę i wygeneruje raport z lukami.
 ## Podział zespołów
 Jeszcze nie ma.
 ## Analiza ryzyka
@@ -17,7 +17,7 @@ Jeszcze nie ma.
 ### Reakcja
 - w przypadku gdy jeden z programistów będzie miał jakieś trudności z danym zadaniem, pozostałe osoby pomogą w rozwiązaniu danego problemu
 # Epic
-Coś tam coś tam
+Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiająca wszystkie wyniki.
 ## Feature
 1. 
 2. 
@@ -31,11 +31,9 @@ Coś tam coś tam
 
 ## User story/task
 -tak
-## Szacowanie User story/task
--tak
-## Analiza zespołu
-### Analiza SWOT
-#### Silne strony
-#### Słabe strony
-#### Okazje
-#### Zagrożenia
+# Analiza zespołu
+## Analiza SWOT
+### Silne strony
+### Słabe strony
+### Okazje
+### Zagrożenia
