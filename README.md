@@ -39,4 +39,3 @@ Coś tam coś tam
 #### Słabe strony
 #### Okazje
 #### Zagrożenia
--tak
