@@ -47,6 +47,6 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
 ### Zagrożenia
 - możliwość posiadania problemów związanych z brakiem znajomości frameworka symfony
 - nie wystarczająca ilość czasu na wykonanie danego projektu
-- ## Wstępny wykres gantta
-- ![image](https://user-images.githubusercontent.com/58747620/160109148-84d74b8b-0425-4b03-a45d-10228363f9ec.png)
+## Wstępny wykres gantta
+![image](https://user-images.githubusercontent.com/58747620/160109148-84d74b8b-0425-4b03-a45d-10228363f9ec.png)
 
