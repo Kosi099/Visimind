@@ -52,4 +52,6 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
 # Schematy blokowe
 ## Rejestracja/Logowanie
 ![image](https://user-images.githubusercontent.com/58747620/160111355-1641904a-958c-4329-aba4-7a98e1924085.png)
+## Zmiana hasła
+![image](https://user-images.githubusercontent.com/58747620/165851351-508d5cc2-9f82-4b68-a66b-d597c6359cef.png)
 
