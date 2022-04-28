@@ -54,4 +54,24 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
 ![image](https://user-images.githubusercontent.com/58747620/160111355-1641904a-958c-4329-aba4-7a98e1924085.png)
 ## Zmiana hasła
 ![image](https://user-images.githubusercontent.com/58747620/165851351-508d5cc2-9f82-4b68-a66b-d597c6359cef.png)
-
+## Konflikty
+### Przypadek 1
+> Piotr zachowuje się agresywnie w stosunku do innych uczestników.
+-   Przeciwdziałania
+    -   postarać sie dowiedzieć jaka jest przyczyna takiego zachowania
+    -   ustalenie z innymi członkami projektu co można zrobić w danej sytuacji
+    -   w ostateczności zwolnić pracownika
+### Przypadek 2
+> Przełożony wymaga przygotowania demo, które nie było zaplanowane w sprincie co powoduje opóźnienie w projekcie.
+-   Przeciwdziałania
+    -   zrobić miejsce na demo kosztem jednego z punktów sprintu
+    -   poproszenie o przesunięcie terminu projektu
+    -   doprecyzowanie w jakim celu jest potrzebne wykonanie tego demo
+    -   zasugerować możliwość nadgodzin
+### Przypadek 3
+> Maciek jest wspaniałym analitykiem i jego wiedza pomogłaby w realizacji projektu. Niestety zespół z równolegle prowadzonego projektu rówhież potrzebuje jego wsparcia.
+-   Przeciwdziałania
+    -   zapytać Maćka czy jest w stanie nadzorować dwa projekty jednocześnie
+    -   przydzielić Maćkowi w jednym dniu jeden projekt w drugim dniu drugi
+    -   zatrudnić na pewien okres drugiego tak dobrego analityka
+    -   przydzielenie Maćka do ważniejszego projektu
