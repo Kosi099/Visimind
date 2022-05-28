@@ -75,6 +75,26 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
     -   przydzielić Maćkowi w jednym dniu jeden projekt w drugim dniu drugi
     -   zatrudnić na pewien okres drugiego tak dobrego analityka
     -   przydzielenie Maćka do ważniejszego projektu
+
+## DoD (Definition of Done)
+> Dla portalu internetowego
+-   Test ortografii
+-   Test responsywności
+-   Test czytelności
+-   Czy na różnych systemach wyświetla się prawidłowo
+-   Przeprowadzono testy na urządzeniach/przeglądarkach wymienionych w dokumentacji
+-   Przeszły testy kompatybilności wstecznej
+-   Testy wydajności przeszły pomyślnie
+-   Naprawiono wszystkie błędy  
+## Kryteria akceptacji
+>     indywidualne kryteria która musi spełnić każda poszczególna historyjka
+Dla testowania zabezpieczeń stron :: Jako użytkownik chce sprawdzić czy dana strona jest dobrze zabezpieczona
+-   możliwość logowania i sprawdzania raportów poprzednich skanów bezpieczeństwa strony
+-   opcja 'Prównaj raporty' do sprawdzę czy poprzednie błędy w zabezpieczeniach zostały naprawione
+-   sprawdzenie możliwość poprawy zabezpieczeń danej strony
+-   poinformowanie użytkownika o nie istniejącej stronie do skanowania zabezpieczeń lub jej błędne wpisanie
+-   możliwość pobrania raportu
+-   możliwość wyświetlenia raportu
 ## Rejestr udziałowców
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 <colgroup>
@@ -166,23 +186,3 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
 <td class="org-left">Wkład własny</td>
 <td class="org-left">Spotkania</td>
 </tr>
-
-## DoD (Definition of Done)
-> Dla portalu internetowego
--   Test ortografii
--   Test responsywności
--   Test czytelności
--   Czy na różnych systemach wyświetla się prawidłowo
--   Przeprowadzono testy na urządzeniach/przeglądarkach wymienionych w dokumentacji
--   Przeszły testy kompatybilności wstecznej
--   Testy wydajności przeszły pomyślnie
--   Naprawiono wszystkie błędy  
-## Kryteria akceptacji
->     indywidualne kryteria która musi spełnić każda poszczególna historyjka
-Dla testowania zabezpieczeń stron :: Jako użytkownik chce sprawdzić czy dana strona jest dobrze zabezpieczona
--   możliwość logowania i sprawdzania raportów poprzednich skanów bezpieczeństwa strony
--   opcja 'Prównaj raporty' do sprawdzę czy poprzednie błędy w zabezpieczeniach zostały naprawione
--   sprawdzenie możliwość poprawy zabezpieczeń danej strony
--   poinformowanie użytkownika o nie istniejącej stronie do skanowania zabezpieczeń lub jej błędne wpisanie
--   możliwość pobrania raportu
--   możliwość wyświetlenia raportu
