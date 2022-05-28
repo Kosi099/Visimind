@@ -75,6 +75,100 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
     -   przydzielić Maćkowi w jednym dniu jeden projekt w drugim dniu drugi
     -   zatrudnić na pewien okres drugiego tak dobrego analityka
     -   przydzielenie Maćka do ważniejszego projektu
+## Rejestr udziałowców
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">L.P.</th>
+<th scope="col" class="org-left">Rodzaj</th>
+<th scope="col" class="org-left">Nazwa</th>
+<th scope="col" class="org-left">Opis</th>
+<th scope="col" class="org-left">Rola</th>
+<th scope="col" class="org-left">Oczekiwania</th>
+<th scope="col" class="org-left">Wpływ</th>
+<th scope="col" class="org-left">Komunikacja</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">Grupa</td>
+<td class="org-left">Administracja it</td>
+<td class="org-left">Administracja it</td>
+<td class="org-left">Przygotowanie Infrastuktury</td>
+<td class="org-left">Przekazanie Wymagań</td>
+<td class="org-left">Zapewnienie Środowiska</td>
+<td class="org-left">Spotkania</td>
+</tr>
+
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">Grupa</td>
+<td class="org-left">Deweloperzy</td>
+<td class="org-left">Deweloperzy</td>
+<td class="org-left">Przygotowanie aplikacji</td>
+<td class="org-left">Przygotowanie aplikacji</td>
+<td class="org-left">Stworzenie aplikacji</td>
+<td class="org-left">Spotkania</td>
+</tr>
+
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">Osoba</td>
+<td class="org-left">Project manager</td>
+<td class="org-left">Project manager</td>
+<td class="org-left">Nadzorowanie projektem</td>
+<td class="org-left">Zakończenie projektu w terminie</td>
+<td class="org-left">Rozwiązywanie problemów</td>
+<td class="org-left">Spotkania</td>
+</tr>
+
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">Organizacja</td>
+<td class="org-left">Firma zlecająca</td>
+<td class="org-left">Firma zlecająca</td>
+<td class="org-left">Firma zlecająca</td>
+<td class="org-left">Aplikacja</td>
+<td class="org-left">Sprawdza pracę nad aplikacją</td>
+<td class="org-left">Produkt</td>
+</tr>
+
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Osoba</td>
+<td class="org-left">Prezes firmy</td>
+<td class="org-left">Prezes firmy</td>
+<td class="org-left">Sponsor</td>
+<td class="org-left">Funkcjonalna aplikacja</td>
+<td class="org-left">Wkład własny</td>
+<td class="org-left">Product owner</td>
+</tr>
 
 ## DoD (Definition of Done)
 > Dla portalu internetowego
