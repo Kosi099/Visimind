@@ -188,13 +188,13 @@ Dla testowania zabezpieczeń stron :: Jako użytkownik chce sprawdzić czy dana 
 </tr>
     
 ## Hashe
-    ### Obrazek
-   ![Puszka](https://user-images.githubusercontent.com/58747620/170823023-1971e221-f976-4b23-b2d1-76806e8356b6.jpg)
-    ### Hash obrazka:
-    c575592994b337c03e34e0d0a77b92b7bec4bb5c3bd37d694907c7038c732621
-    ### Obrazek po zmianie:
-    ![Puszka](https://user-images.githubusercontent.com/58747620/170823035-a2e731e2-17f0-440c-9569-820b1d237981.jpg)
-    ### Hash obrazka po zmianie:
-    9d0d503842d8caf3255a4e17faee1121bc2be1cb24a27395a89388835a295205
+### Obrazek:
+![Puszka](https://user-images.githubusercontent.com/58747620/170823023-1971e221-f976-4b23-b2d1-76806e8356b6.jpg)
+### Hash obrazka:
+c575592994b337c03e34e0d0a77b92b7bec4bb5c3bd37d694907c7038c732621
+### Obrazek po zmianie:
+![Puszka](https://user-images.githubusercontent.com/58747620/170823035-a2e731e2-17f0-440c-9569-820b1d237981.jpg)
+### Hash obrazka po zmianie:
+9d0d503842d8caf3255a4e17faee1121bc2be1cb24a27395a89388835a295205
 
     
