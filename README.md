@@ -76,10 +76,7 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
     -   zatrudnić na pewien okres drugiego tak dobrego analityka
     -   przydzielenie Maćka do ważniejszego projektu
 ## Rejestr udziałowców
-
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
 <colgroup>
 <col  class="org-right" />
 
@@ -167,7 +164,7 @@ Aplikacja sprawdzająca luki w zabezpieczeniach przez OWASP ZAP i przedsatwiają
 <td class="org-left">Sponsor</td>
 <td class="org-left">Funkcjonalna aplikacja</td>
 <td class="org-left">Wkład własny</td>
-<td class="org-left">Product owner</td>
+<td class="org-left">Spotkania</td>
 </tr>
 
 ## DoD (Definition of Done)
